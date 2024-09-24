@@ -287,6 +287,10 @@ section {
 .about-details-container {
   display: flex;
 }
+.project-description{
+  text-align: justify;
+  line-height: 1.5;
+}
 
 .about-pic {
   border-radius: 2rem;
